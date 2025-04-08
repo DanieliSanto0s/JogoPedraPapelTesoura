@@ -9,7 +9,7 @@ Atualmente, o jogo é executado no console, mas já existe uma estrutura de arqu
 ```
 JogoPedraPapelTesoura/
 │
-├── index.html             # Arquivo principal da página (ainda em branco)
+├── index.html             # Arquivo principal da página
 ├── assets/
 │   ├── css/
 │   │   └── style.css      # Arquivo de estilos (vazio por enquanto)
